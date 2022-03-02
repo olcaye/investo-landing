@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="investo" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="investo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/landing" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
